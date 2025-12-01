@@ -4,10 +4,11 @@ streamlit
 requests
 python-dotenv
 pydantic
-langchain>=1.29.0
+langchain==1.28.0
 langchain-core==0.1.52
 langchain-google-genai==3.2.0
 google-generativeai
 google-genai>=1.52.0
+
 
 
